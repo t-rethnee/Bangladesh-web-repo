@@ -258,7 +258,7 @@ input{
 .connect2{
   width: 160px;
   height: 48px;
-  padding: 34px 17px:
+  padding: 34px 17px;
   background-color: #C6E4D6;
   border-radius: 10px;
   background-color: #006a50;
@@ -266,4 +266,67 @@ input{
   font-weight:600;
   font-size: 18;
   margin-top: 30px;
+}
+.skill-description{
+  width: 346.67px;
+  height: 108px;
+  border-radius: 8px;
+
+}
+.NF{
+  background-color:#C6E4D6 ;
+  width: 1280px;
+  height: 395px;
+}
+.SN{
+  width: 750px;
+  height: 235px;
+  
+ 
+}
+#n1{
+  width: 622px;
+  height: 48px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  color:#0E0E0E;
+  margin-left: 329px;
+  margin-top: 80px;
+
+}
+#n2{
+  width: 622px;
+  height: 48px;
+  text-align: center;
+  font-size: 16px;
+  color:#0E0E0EB3;
+  margin-left: 329px;
+}
+.F1{
+  display: flex;
+  width: 750px;
+  height: 56px;
+  
+  margin-left: 265px;
+}
+#n3{
+  width: 600px;
+  height: 55px;
+  border-radius: 8px 0 0 8px;
+}
+#n4{
+  width: 150px;
+  height: 56px;
+  color:#FFFFFF;
+  background-color:#006A50 ;
+  text-align: center;
+  font-weight: bold;
+  border-radius:0 8px 8px 0;
+}
+#n5{
+  text-align: center;
+  margin-left: 380px;
+  font-size: 16px;
+  margin-top: 50px;
 }
